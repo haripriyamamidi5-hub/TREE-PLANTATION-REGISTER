@@ -1,0 +1,28 @@
+TREE PLANTATION REGISTER — TEST REPORT
+Execution date: 25 November 2026
+Command: python -m unittest discover -s tests -v
+
+Result: PASS
+Tests executed: 7
+Failures: 0
+Errors: 0
+
+Covered cases:
+1. Record creation and sequential ID generation — PASS
+2. Survival follow-up and survival-rate calculation — PASS
+3. Reject alive count greater than inspected count — PASS
+4. Search by location — PASS
+5. Sample data loads only into an empty register — PASS
+6. Empty-register summary — PASS
+7. Duplicate-safe CSV import — PASS
+
+Demonstration run:
+- Loaded 40 demonstration records.
+- Total trees planted: 770
+- Unique locations: 5
+- Trees inspected: 730
+- Alive in recorded checks: 691
+- Overall survival rate: 94.66%
+- Average check survival: 93.36%
+
+Note: Demonstration values are generated sample data and are not field-survey measurements.

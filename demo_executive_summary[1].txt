@@ -1,0 +1,12 @@
+TREE PLANTATION REGISTER - EXECUTIVE SUMMARY
+
+Plantation records: 40
+Total trees planted: 770
+Unique locations: 5
+Trees inspected: 730
+Alive in recorded checks: 691
+Overall survival rate: 94.66%
+Average check survival: 93.36%
+
+FOLLOW-UP WARNINGS
+No overdue follow-ups.

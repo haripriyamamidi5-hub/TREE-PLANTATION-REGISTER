@@ -1,0 +1,10 @@
+BEFORE HANDING THIS PROJECT TO FACULTY
+[ ] Fill in all student names and registration numbers on report cover.
+[ ] Fill in department, course details and project guide name.
+[ ] Obtain guide/HOD signatures on certificate as required.
+[ ] Review the declaration and acknowledgement and personalize them truthfully.
+[ ] Update table of contents/page numbers after editing the report.
+[ ] Run the project on the college/lab computer.
+[ ] Take fresh screenshots from the final run if faculty requires live-machine evidence.
+[ ] Keep a backup copy of the data folder.
+[ ] Confirm any department-specific instructions with the project guide.
